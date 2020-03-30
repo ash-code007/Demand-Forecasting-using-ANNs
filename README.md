@@ -47,7 +47,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 
 - Clone the repository and navigate to the downloaded folder.
 
- `git clone https://github.com/adityasaxena26/predicting-bike-sharing-data.git`
+ `git clone https://github.com/ash-code007/predicting-bike-sharing-data.git`
 
  `cd predicting-bike-sharing-data`
 - Run the following to open up the notebook server:`jupyter notebook`
