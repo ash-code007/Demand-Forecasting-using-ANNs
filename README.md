@@ -74,7 +74,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
 
 ```
-git clone https://github.com/chaithanya21/Predicting-Bike-Sharing-Patterns.git
+git clone https://github.com/ash-code007/Predicting-Bike-Sharing-Patterns.git
 cd Predicting-Bike-Sharing-Patterns
 ```
 Run the following to open up the notebook server:jupyter notebook
@@ -87,7 +87,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Correlation Between Different Attributes In The Dataset</h2>
 
-![Correlation](https://github.com/ash-code007/Predicting-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Corr.png)
+![Correlation](https://github.com/ash-code007/Predicting-Bike-Sharing-Patterns/blob/tree/master/Bike_Sharing_Dataset/Corr.png)
 
 <h2>Training and Validation Loss</h2>
 
@@ -95,7 +95,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Predictions On the Test Dataset</h2>
 
-![Predictions](https://github.com/ash-code007/Predicting-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Pred.png)
+![Predictions](https://github.com/ash-code007/Predicting-Bike-Sharing-Patterns/blob/tree/master/Bike_Sharing_Dataset/Pred.png)
 
 
 
