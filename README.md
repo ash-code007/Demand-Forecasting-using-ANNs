@@ -87,7 +87,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Correlation Between Different Attributes In The Dataset</h2>
 
-![Correlation](https://github.com/ash-code007/Prediction-of-Bike-Sharing-Patterns/tree/master/Bike_Sharing_Dataset/Corr.png)
+![Correlation](https://github.com/ash-code007/Prediction-of-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Corr.png)
 
 <h2>Training and Validation Loss</h2>
 
