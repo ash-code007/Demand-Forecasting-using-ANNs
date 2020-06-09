@@ -95,7 +95,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Predictions On the Test Dataset</h2>
 
-![Predictions](https://github.com/ash-code007/Prediction-of-Bike-Sharing-Patterns/tree/master/Bike_Sharing_Dataset/Pred.png)
+![Predictions](https://github.com/ash-code007/Prediction-of-Bike-Sharing-Patterns/blob/master/Bike_Sharing_Dataset/Pred.png)
 
 
 
