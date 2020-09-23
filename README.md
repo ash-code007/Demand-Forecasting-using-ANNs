@@ -87,7 +87,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Correlation Between Different Attributes In The Dataset</h2>
 
-![Correlation](https://github.com/ash-code007//Demand-Prediction-using-ANNs/blob/master/Bike_Sharing_Dataset/Corr.png)
+![Correlation](https://github.com/ash-code007/Demand-Prediction-using-ANNs/blob/master/Bike_Sharing_Dataset/Corr.png)
 
 <h2>Training and Validation Loss</h2>
 
@@ -95,7 +95,7 @@ Edit the Neural_Network.py python file, whose components are imported into the n
 
 <h2>Predictions On the Test Dataset</h2>
 
-![Predictions](https://github.com/ash-code007//Demand-Prediction-using-ANNs/blob/master/Bike_Sharing_Dataset/Pred.png)
+![Predictions](https://github.com/ash-code007/Demand-Prediction-using-ANNs/blob/master/Bike_Sharing_Dataset/Pred.png)
 
 
 
